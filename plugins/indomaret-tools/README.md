@@ -15,12 +15,6 @@ Free [Agent Skill](https://indomaret.org/en/use-with-ai) that lets Claude and ot
 /plugin install indomaret-tools@indomaret-skills
 ```
 
-**Claude Code: plain skill folder**
-
-```bash
-mkdir -p ~/.claude/skills && curl -fsSL https://indomaret.org/ai/indomaret-tools.zip -o /tmp/indomaret-tools.zip && unzip -oq /tmp/indomaret-tools.zip -d ~/.claude/skills
-```
-
 **Cursor, Codex, Gemini CLI, Copilot and other coding agents** (needs Node.js):
 
 ```bash
