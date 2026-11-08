@@ -1,0 +1,24 @@
+{
+    "name": "indomaret-tools",
+    "description": "Free website, domain and network checks (DNS, WHOIS, SSL, HTTP headers, redirects, SEO meta, Open Graph, MX/SPF/DMARC, IP) plus a map of 294 free browser tools from Indomaret.org.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Indomaret.org",
+        "url": "https://indomaret.org"
+    },
+    "homepage": "https://indomaret.org/en/use-with-ai",
+    "repository": "https://github.com/dono-zz/indomaret-skills",
+    "license": "MIT",
+    "keywords": [
+        "dns",
+        "ssl",
+        "whois",
+        "seo",
+        "http",
+        "email",
+        "domain",
+        "indonesia",
+        "pdf",
+        "tools"
+    ]
+}
