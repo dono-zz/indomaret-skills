@@ -14,6 +14,7 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 - Sign PDF (Tanda Tangan PDF): Add a signature to a PDF: draw, type or upload it, drag it into place, and download. EN https://indomaret.org/en/tool/pdf-signature | ID https://indomaret.org/tool/pdf-signature
 - Split PDF (Pisah PDF): Pull specific pages out of a PDF, or split it into several files. EN https://indomaret.org/en/tool/pdf-splitter | ID https://indomaret.org/tool/pdf-splitter
 - PDF to JPG (PDF ke JPG): Turn PDF pages into sharp JPG or PNG images — all pages or a selection. EN https://indomaret.org/en/tool/pdf-to-jpg | ID https://indomaret.org/tool/pdf-to-jpg
+- PDF to PowerPoint (PDF ke PPT): Turn every PDF page into a PowerPoint .pptx slide — ready to present, nothing uploaded. EN https://indomaret.org/en/tool/pdf-to-ppt | ID https://indomaret.org/tool/pdf-to-ppt
 - PDF to Text (PDF ke Teks): Pull all the text out of a PDF to copy, edit or save as .txt. EN https://indomaret.org/en/tool/pdf-to-text | ID https://indomaret.org/tool/pdf-to-text
 - PDF to Word (PDF ke Word): Turn a PDF into an editable Word document (.docx) — headings, lists and simple tables are detected. EN https://indomaret.org/en/tool/pdf-to-word | ID https://indomaret.org/tool/pdf-to-word
 - Watermark PDF (Watermark PDF): Stamp a text or logo watermark on a PDF — set opacity, angle, position and pages, and see it live. EN https://indomaret.org/en/tool/pdf-watermark | ID https://indomaret.org/tool/pdf-watermark
@@ -25,10 +26,13 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 
 ## Image / Foto & Gambar
 
+- AI File Viewer (Buka File AI): View Adobe Illustrator (.ai) files without Illustrator and save each artboard as PNG, JPG or PDF. EN https://indomaret.org/en/tool/ai-to-png | ID https://indomaret.org/tool/ai-to-png
 - AVIF to JPG (AVIF ke JPG): Convert AVIF images to JPG or PNG individually or together in a downloadable ZIP. EN https://indomaret.org/en/tool/avif-to-jpg | ID https://indomaret.org/tool/avif-to-jpg
 - Base64 to Image (Base64 ke Gambar): Paste base64 or a data URI, view the image, and download it with the right extension. EN https://indomaret.org/en/tool/base64-to-image | ID https://indomaret.org/tool/base64-to-image
 - Blur Face & License Plate (Sensor Wajah & Plat Nomor): Blur faces automatically and cover number plates or ID details with blur, pixelation or a black box. EN https://indomaret.org/en/tool/blur-face | ID https://indomaret.org/tool/blur-face
 - Color Palette from Image (Palet Warna dari Gambar): Extract 5–10 dominant image colors and copy HEX, RGB, HSL, or a ready-to-use CSS palette. EN https://indomaret.org/en/tool/color-palette-from-image | ID https://indomaret.org/tool/color-palette-from-image
+- Remove Objects from Photo (Hapus Objek di Foto): Brush over unwanted people or things and AI fills in the background — right in your browser, no upload. EN https://indomaret.org/en/tool/hapus-objek-foto | ID https://indomaret.org/tool/hapus-objek-foto
+- Remove Text from Photo (Hapus Tulisan di Foto): Remove camera date stamps, captions or stickers from your photo — text is found automatically and AI fills the gap in your browser. EN https://indomaret.org/en/tool/hapus-tulisan-di-foto | ID https://indomaret.org/tool/hapus-tulisan-di-foto
 - HEIC to JPG (HEIC ke JPG): Convert iPhone HEIC/HEIF photos to JPG or PNG right in your browser, in batches. EN https://indomaret.org/en/tool/heic-to-jpg | ID https://indomaret.org/tool/heic-to-jpg
 - Background Remover (Hapus Background): Remove a photo background automatically with AI, then save it transparent or on red, blue or white. EN https://indomaret.org/en/tool/image-background-remover | ID https://indomaret.org/tool/image-background-remover
 - Image Color Picker (Ambil Warna dari Gambar): Click anywhere on a picture to get its HEX, RGB, HSL and CMYK color codes. EN https://indomaret.org/en/tool/image-color-picker | ID https://indomaret.org/tool/image-color-picker
@@ -39,16 +43,20 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 - Rotate Image (Putar Foto): Rotate photos by 90°/180° or any angle, and flip or mirror them — in batches. EN https://indomaret.org/en/tool/image-rotate | ID https://indomaret.org/tool/image-rotate
 - Image to Base64 (Gambar ke Base64): Turn PNG, JPG, SVG or WebP images into Base64 / data URIs ready for HTML and CSS. EN https://indomaret.org/en/tool/image-to-base64 | ID https://indomaret.org/tool/image-to-base64
 - Image to Grayscale (Foto Hitam Putih): Turn colour photos into grayscale, sepia, or pure black-and-white for documents. EN https://indomaret.org/en/tool/image-to-grayscale | ID https://indomaret.org/tool/image-to-grayscale
+- Image to SVG (Gambar ke SVG): Turn PNG, JPG or WebP into vector SVG with logo, illustration, photo or line-art presets. EN https://indomaret.org/en/tool/image-to-svg | ID https://indomaret.org/tool/image-to-svg
 - AI Image Upscaler (Perbesar Foto HD): Enlarge small or pixelated photos 2× or 4× with AI, right in your browser — nothing is uploaded. EN https://indomaret.org/en/tool/image-upscaler | ID https://indomaret.org/tool/image-upscaler
 - Image Watermark (Watermark Foto): Apply text or logo watermarks to a batch of photos with adjustable opacity and tiled placement. EN https://indomaret.org/en/tool/image-watermark | ID https://indomaret.org/tool/image-watermark
 - JPG to PNG (JPG ke PNG): Convert JPG/JPEG photos to lossless PNG right in your browser. EN https://indomaret.org/en/tool/jpg-to-png | ID https://indomaret.org/tool/jpg-to-png
+- JPG to PPT (JPG ke PPT): Turn a batch of photos into one PowerPoint file — one image per slide, in your order. EN https://indomaret.org/en/tool/jpg-to-ppt | ID https://indomaret.org/tool/jpg-to-ppt
 - JPG to WebP (JPG ke WebP): Convert JPG to WebP for faster websites — set the quality and see the savings. EN https://indomaret.org/en/tool/jpg-to-webp | ID https://indomaret.org/tool/jpg-to-webp
 - Meme Generator (Pembuat Meme): Create a meme from a photo or blank canvas with bold outlined captions and draggable extra text. EN https://indomaret.org/en/tool/meme-generator | ID https://indomaret.org/tool/meme-generator
 - Passport Photo Maker (Pas Foto Online): Crop a photo to passport or ID size, swap a plain background, and print several copies on 4R or A4. EN https://indomaret.org/en/tool/passport-photo-maker | ID https://indomaret.org/tool/passport-photo-maker
+- Extend Photo (Perluas Foto): Turn a photo into 4:5, 9:16 or 1:1 without cropping it — new edges filled with blur, mirror, colour or AI. EN https://indomaret.org/en/tool/perluas-foto | ID https://indomaret.org/tool/perluas-foto
 - Photo Collage (Kolase Foto): Combine 2–9 photos in a grid with adjustable gaps, rounded corners and square, portrait or story output. EN https://indomaret.org/en/tool/photo-collage | ID https://indomaret.org/tool/photo-collage
 - PNG to JPG (PNG ke JPG): Convert PNG to lighter JPG files — transparency is filled with white or a colour you choose. EN https://indomaret.org/en/tool/png-to-jpg | ID https://indomaret.org/tool/png-to-jpg
 - PNG to WebP (PNG ke WebP): Convert PNG to much lighter WebP — transparent backgrounds stay transparent. EN https://indomaret.org/en/tool/png-to-webp | ID https://indomaret.org/tool/png-to-webp
 - Make Background Transparent (Remove Color) (Jadikan Background Transparan (Hapus Warna)): Click a background color on your image to make it transparent, then download a PNG. EN https://indomaret.org/en/tool/png-transparent | ID https://indomaret.org/tool/png-transparent
+- PSD Viewer (Buka File PSD): View PSD/PSB files without Photoshop, toggle layers and save as PNG, JPG or WebP. EN https://indomaret.org/en/tool/psd-to-png | ID https://indomaret.org/tool/psd-to-png
 - QR Code Reader (Scan QR Code): Read QR codes from images, screenshots or your camera — no app needed. EN https://indomaret.org/en/tool/qr-code-reader | ID https://indomaret.org/tool/qr-code-reader
 - Signature Generator (Pembuat Tanda Tangan): Draw your signature or type a name, then download a trimmed PNG with a transparent background. EN https://indomaret.org/en/tool/signature-generator | ID https://indomaret.org/tool/signature-generator
 - SVG to PNG (SVG ke PNG): Rasterize SVG into transparent PNG or JPG at a chosen scale or exact pixel dimensions. EN https://indomaret.org/en/tool/svg-to-png | ID https://indomaret.org/tool/svg-to-png
@@ -183,6 +191,7 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 - AI Prompt Generator (Generator Prompt AI): Turn a rough idea into a clear text, image or video prompt, then paste it into any AI tool. EN https://indomaret.org/en/tool/prompt-builder | ID https://indomaret.org/tool/prompt-builder
 - QR Code Generator (Buat QR Code): Make QR codes for links, WiFi, WhatsApp, text or email — download PNG/SVG, no watermark. EN https://indomaret.org/en/tool/qr-generator | ID https://indomaret.org/tool/qr-generator
 - Random Number Generator (Generator Angka Acak): Draw random integers from your chosen range, optionally without repeats. EN https://indomaret.org/en/tool/random-number-generator | ID https://indomaret.org/tool/random-number-generator
+- Text to PowerPoint (Buat PPT dari Teks): Write an outline (# title, - bullet), pick a theme, and download an editable PowerPoint .pptx. EN https://indomaret.org/en/tool/text-to-ppt | ID https://indomaret.org/tool/text-to-ppt
 - Username Generator (Generator Username): Type your favourite words, choose a style and platform, and get 20 usernames whose length and characters already follow the rules. EN https://indomaret.org/en/tool/username-generator | ID https://indomaret.org/tool/username-generator
 
 ## Developer / Developer

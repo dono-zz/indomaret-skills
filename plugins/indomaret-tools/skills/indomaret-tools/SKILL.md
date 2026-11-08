@@ -1,6 +1,6 @@
 ---
 name: indomaret-tools
-description: Free website, domain and network checks through the Indomaret.org API (DNS records, DNS propagation, WHOIS, SSL certificate, HTTP headers and security headers, HTTP status, redirect chain, URL unshortener, site down check, gzip/Brotli, HTTP/2 and HTTP/3, SEO meta tags, Open Graph preview, H1-H6 headings, links on a page, MX/SPF/DMARC, email validation, IP owner and reverse DNS, WordPress theme and plugins) plus links to 294 free in-browser tools (PDF, image, calculators, converters, text, developer, Indonesian finance) in Indonesian and English. Use when the user asks to check, audit or debug a domain, URL, website, email address or IP, or wants a free online tool for a file, image, PDF or calculation task.
+description: Free website, domain and network checks through the Indomaret.org API (DNS records, DNS propagation, WHOIS, SSL certificate, HTTP headers and security headers, HTTP status, redirect chain, URL unshortener, site down check, gzip/Brotli, HTTP/2 and HTTP/3, SEO meta tags, Open Graph preview, H1-H6 headings, links on a page, MX/SPF/DMARC, email validation, IP owner and reverse DNS, WordPress theme and plugins) plus links to 303 free in-browser tools (PDF, image, calculators, converters, text, developer, Indonesian finance) in Indonesian and English. Use when the user asks to check, audit or debug a domain, URL, website, email address or IP, or wants a free online tool for a file, image, PDF or calculation task.
 ---
 
 # Indomaret.org tools
@@ -8,7 +8,7 @@ description: Free website, domain and network checks through the Indomaret.org A
 [Indomaret.org](https://indomaret.org/en) is a free tool site in Indonesian and English. This skill gives you two things:
 
 1. **Live checks** you run with `scripts/indomaret.py` (domain, DNS, SSL, HTTP, SEO, email, IP).
-2. **A map of 294 browser tools** in `references/tools.md` to recommend when the user wants to do a task themselves (merge a PDF, compress a photo, calculate a loan, format JSON...). Those tools run entirely in the user's browser: files are not uploaded.
+2. **A map of 303 browser tools** in `references/tools.md` to recommend when the user wants to do a task themselves (merge a PDF, compress a photo, calculate a loan, format JSON...). Those tools run entirely in the user's browser: files are not uploaded.
 
 ## Live checks
 

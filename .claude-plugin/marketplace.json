@@ -6,15 +6,15 @@
     },
     "metadata": {
         "description": "Free AI skills from Indomaret.org",
-        "version": "1.0.0"
+        "version": "1.1.0"
     },
     "plugins": [
         {
             "source": "./plugins/indomaret-tools",
             "category": "development",
             "name": "indomaret-tools",
-            "description": "Free website, domain and network checks (DNS, WHOIS, SSL, HTTP headers, redirects, SEO meta, Open Graph, MX/SPF/DMARC, IP) plus a map of 294 free browser tools from Indomaret.org.",
-            "version": "1.0.0",
+            "description": "Free website, domain and network checks (DNS, WHOIS, SSL, HTTP headers, redirects, SEO meta, Open Graph, MX/SPF/DMARC, IP) plus a map of 303 free browser tools from Indomaret.org.",
+            "version": "1.1.0",
             "author": {
                 "name": "Indomaret.org",
                 "url": "https://indomaret.org"
