@@ -21,6 +21,12 @@ Free [Agent Skill](https://indomaret.org/en/use-with-ai) that lets Claude and ot
 mkdir -p ~/.claude/skills && curl -fsSL https://indomaret.org/ai/indomaret-tools.zip -o /tmp/indomaret-tools.zip && unzip -oq /tmp/indomaret-tools.zip -d ~/.claude/skills
 ```
 
+**Cursor, Codex, Gemini CLI, Copilot and 40+ other agents** (needs Node.js):
+
+```bash
+npx skills add dono-zz/indomaret-skills
+```
+
 **Claude.ai and the Claude apps:** download [indomaret-tools.zip](https://indomaret.org/ai/indomaret-tools.zip), then upload it under **Settings → Capabilities → Skills** (code execution must be on). If sandbox network access is restricted, allow `indomaret.org`.
 
 ## Try it
