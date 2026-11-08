@@ -37,10 +37,7 @@
         },
         {
             "name": "nawala-check",
-            "source": {
-                "source": "github",
-                "repo": "dono-zz/nawala-api"
-            },
+            "source": "./plugins/nawala-check",
             "description": "Check whether domains are blocked in Indonesia (Nawala, Internet Positif, TrustPositif) and by which operators. Free demo key included.",
             "version": "1.0.0",
             "author": {
