@@ -20,5 +20,9 @@
         "indonesia",
         "pdf",
         "tools"
-    ]
+    ],
+    "documentationUrl": "https://github.com/dono-zz/indomaret-skills#readme",
+    "supportUrl": "https://indomaret.org/en/contact-us",
+    "privacyPolicyUrl": "https://indomaret.org/en/privacy",
+    "termsOfServiceUrl": "https://indomaret.org/en/terms"
 }
