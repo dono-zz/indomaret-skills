@@ -34,6 +34,22 @@
                 "pdf",
                 "tools"
             ]
+        },
+        {
+            "name": "nawala-check",
+            "source": {
+                "source": "github",
+                "repo": "dono-zz/nawala-api"
+            },
+            "description": "Check whether domains are blocked in Indonesia (Nawala, Internet Positif, TrustPositif) and by which operators. Free demo key included.",
+            "version": "1.0.0",
+            "author": {
+                "name": "Indomaret.org",
+                "url": "https://indomaret.org"
+            },
+            "homepage": "https://github.com/dono-zz/nawala-api",
+            "license": "MIT",
+            "category": "development"
         }
     ]
 }

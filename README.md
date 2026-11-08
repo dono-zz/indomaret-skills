@@ -51,6 +51,14 @@ python3 plugins/indomaret-tools/skills/indomaret-tools/scripts/indomaret.py ssl-
 - Limit: 20 requests per minute and 300 per hour per IP. Port scanning, SMTP tests, ping and Nawala checks are deliberately not exposed.
 - Report security issues to halo@indomaret.org ([security.txt](https://indomaret.org/.well-known/security.txt)).
 
+## Also in this marketplace
+
+**[nawala-check](https://github.com/dono-zz/nawala-api)**: checks whether domains are blocked in Indonesia (Nawala / TrustPositif) and by which operators. Free demo key included.
+
+```
+/plugin install nawala-check@indomaret-skills
+```
+
 ## Indonesia
 
 Need a Nawala / Internet Positif block check? Use [the free checker](https://indomaret.org/en/tool/cek-nawala) or [nawacek.id](https://nawacek.id) for bulk checks, monitoring and API. Landing pages under attack? See [anti-DDoS hosting](https://indomaret.org/en/anti-ddos-hosting).
