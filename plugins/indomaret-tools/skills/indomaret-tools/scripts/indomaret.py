@@ -21,7 +21,7 @@ import urllib.parse
 import urllib.request
 
 BASE = "https://indomaret.org"
-VERSION = "1.1.0"
+VERSION = "1.1.1"
 TOOLS = json.loads(r'''{
     "dns-lookup": {
         "params": {
