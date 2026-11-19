@@ -4,6 +4,7 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 
 ## PDF / PDF
 
+- Compare PDF (Bandingkan PDF): See what changed between two PDFs: additions, deletions and word-level edits are highlighted. EN https://indomaret.org/en/tool/bandingkan-pdf | ID https://indomaret.org/tool/bandingkan-pdf
 - JPG to PDF (JPG ke PDF): Turn JPG, PNG or WebP photos into one tidy PDF. Set the order and paper size. EN https://indomaret.org/en/tool/jpg-to-pdf | ID https://indomaret.org/tool/jpg-to-pdf
 - Organize PDF (Atur Halaman PDF): Rearrange PDF pages: change the order, delete, duplicate, rotate or insert blank pages. EN https://indomaret.org/en/tool/organize-pdf | ID https://indomaret.org/tool/organize-pdf
 - Compress PDF (Kompres PDF): Shrink PDFs full of photos or scans for email and online forms, right in your browser. EN https://indomaret.org/en/tool/pdf-compressor | ID https://indomaret.org/tool/pdf-compressor
@@ -13,6 +14,7 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 - Add Page Numbers to PDF (Tambah Nomor Halaman PDF): Number the pages of a PDF. Choose the position, format, starting number and pages to skip. EN https://indomaret.org/en/tool/pdf-page-numbers | ID https://indomaret.org/tool/pdf-page-numbers
 - Sign PDF (Tanda Tangan PDF): Add a signature to a PDF: draw, type or upload it, drag it into place, and download. EN https://indomaret.org/en/tool/pdf-signature | ID https://indomaret.org/tool/pdf-signature
 - Split PDF (Pisah PDF): Pull specific pages out of a PDF, or split it into several files. EN https://indomaret.org/en/tool/pdf-splitter | ID https://indomaret.org/tool/pdf-splitter
+- PDF to Excel (PDF ke Excel): Turn tables in a PDF into an Excel file (.xlsx). Columns are detected and amounts become numbers. EN https://indomaret.org/en/tool/pdf-to-excel | ID https://indomaret.org/tool/pdf-to-excel
 - PDF to JPG (PDF ke JPG): Turn PDF pages into sharp JPG or PNG images. All pages or a selection. EN https://indomaret.org/en/tool/pdf-to-jpg | ID https://indomaret.org/tool/pdf-to-jpg
 - PDF to PowerPoint (PDF ke PPT): Turn every PDF page into a PowerPoint .pptx slide. Ready to present, nothing uploaded. EN https://indomaret.org/en/tool/pdf-to-ppt | ID https://indomaret.org/tool/pdf-to-ppt
 - PDF to Text (PDF ke Teks): Pull all the text out of a PDF to copy, edit or save as .txt. EN https://indomaret.org/en/tool/pdf-to-text | ID https://indomaret.org/tool/pdf-to-text
@@ -20,6 +22,7 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 - Watermark PDF (Watermark PDF): Stamp a text or logo watermark on a PDF. Set opacity, angle, position and pages, and see it live. EN https://indomaret.org/en/tool/pdf-watermark | ID https://indomaret.org/tool/pdf-watermark
 - Protect PDF with Password (Kunci PDF dengan Password): Add an open password to a PDF with AES encryption, plus print, copy and edit restrictions. EN https://indomaret.org/en/tool/protect-pdf | ID https://indomaret.org/tool/protect-pdf
 - Rotate PDF (Putar PDF): Fix sideways or upside-down PDF pages (all at once or one by one), and save the rotation for good. EN https://indomaret.org/en/tool/rotate-pdf | ID https://indomaret.org/tool/rotate-pdf
+- Redact PDF (Sensor PDF): Black out ID numbers, phones, emails and personal data in a PDF for good, not just covered by a box. EN https://indomaret.org/en/tool/sensor-pdf | ID https://indomaret.org/tool/sensor-pdf
 - Text, Markdown & HTML to PDF (Teks, Markdown & HTML ke PDF): Paste or choose a .txt, .md or .html file, set paper and page numbers, then download a PDF. All in your browser. EN https://indomaret.org/en/tool/text-to-pdf | ID https://indomaret.org/tool/text-to-pdf
 - Unlock PDF (Buka Password PDF): Remove the password and print/copy limits from a PDF whose password you know. Text stays intact. EN https://indomaret.org/en/tool/unlock-pdf | ID https://indomaret.org/tool/unlock-pdf
 - Word to PDF (Word ke PDF): Turn a Word document (.docx) into a PDF in your browser. Preview every page before you download. EN https://indomaret.org/en/tool/word-to-pdf | ID https://indomaret.org/tool/word-to-pdf
@@ -60,6 +63,7 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 - QR Code Reader (Scan QR Code): Read QR codes from images, screenshots or your camera. No app needed. EN https://indomaret.org/en/tool/qr-code-reader | ID https://indomaret.org/tool/qr-code-reader
 - Signature Generator (Pembuat Tanda Tangan): Draw your signature or type a name, then download a trimmed PNG with a transparent background. EN https://indomaret.org/en/tool/signature-generator | ID https://indomaret.org/tool/signature-generator
 - SVG to PNG (SVG ke PNG): Rasterize SVG into transparent PNG or JPG at a chosen scale or exact pixel dimensions. EN https://indomaret.org/en/tool/svg-to-png | ID https://indomaret.org/tool/svg-to-png
+- ID Card Watermark (KTP) (Watermark KTP): Add the purpose and date diagonally across an ID photo so it cannot be misused elsewhere. EN https://indomaret.org/en/tool/watermark-ktp | ID https://indomaret.org/tool/watermark-ktp
 - WebP to JPG (WebP ke JPG): Convert WebP images to JPG so they open and upload in any app. EN https://indomaret.org/en/tool/webp-to-jpg | ID https://indomaret.org/tool/webp-to-jpg
 - WebP to PNG (WebP ke PNG): Convert WebP to lossless PNG with transparent backgrounds intact. EN https://indomaret.org/en/tool/webp-to-png | ID https://indomaret.org/tool/webp-to-png
 - Color Wheel Picker (Color Picker Roda Warna): Pick a colour on the wheel and get HEX, RGB, HSL and CMYK codes plus tints and shades. EN https://indomaret.org/en/tool/wheel-color-picker | ID https://indomaret.org/tool/wheel-color-picker
@@ -84,6 +88,7 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 
 - Qibla Direction Finder (Arah Kiblat): Get the qibla bearing for your city or location, then align it with your phone compass or the sun's shadow. EN https://indomaret.org/en/tool/arah-kiblat | ID https://indomaret.org/tool/arah-kiblat
 - BPJS Contribution Calculator (Kalkulator Iuran BPJS): Split employee and employer BPJS contributions using the pension wage cap for each 2026 month. EN https://indomaret.org/en/tool/bpjs-contribution-calculator | ID https://indomaret.org/tool/bpjs-contribution-calculator
+- QRIS Checker (Cek QRIS): Read what a QRIS code holds before paying: merchant name, NMID, city, amount and signs of tampering. EN https://indomaret.org/en/tool/cek-qris | ID https://indomaret.org/tool/cek-qris
 - CV Builder (Buat CV Online): Fill in a form, watch the live preview, and download an ATS-friendly PDF CV. No sign-up, nothing stored. EN https://indomaret.org/en/tool/cv-builder | ID https://indomaret.org/tool/cv-builder
 - Indonesia Minimum Wages 2026 (Daftar UMR 2026): Find 2026 wages for all 38 provinces and selected cities, then compare your monthly wage. EN https://indomaret.org/en/tool/daftar-umr | ID https://indomaret.org/tool/daftar-umr
 - Dead Pixel Test (Tes Dead Pixel): Inspect your display with solid colours, full screen and an optional flashing patch. EN https://indomaret.org/en/tool/dead-pixel-test | ID https://indomaret.org/tool/dead-pixel-test
@@ -92,6 +97,8 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 - Invoice Generator (Pembuat Invoice PDF): Create an invoice PDF with logo, line items, discount, VAT and amount in words in your browser. EN https://indomaret.org/en/tool/invoice-generator | ID https://indomaret.org/tool/invoice-generator
 - Prayer Times Indonesia (Jadwal Sholat): Today's and this month's prayer times for your city, with a countdown to the next prayer. EN https://indomaret.org/en/tool/jadwal-sholat | ID https://indomaret.org/tool/jadwal-sholat
 - Online Clock Indonesia (Jam Online (WIB, WITA, WIT)): A big digital clock for WIB, WITA, WIT or your device zone. Fullscreen, analog, and able to announce the time every 15, 30 or 60 minutes. EN https://indomaret.org/en/tool/jam-online | ID https://indomaret.org/tool/jam-online
+- Marketplace Fee Calculator (Kalkulator Biaya Admin Marketplace): Work out your net per order after marketplace fees, and the selling price for a target you want. EN https://indomaret.org/en/tool/kalkulator-biaya-admin-marketplace | ID https://indomaret.org/tool/kalkulator-biaya-admin-marketplace
+- Bank Transfer Fee Calculator (Kalkulator Biaya Transfer Bank): Compare BI-FAST, online transfer, SKN and RTGS fees for the amount you want to send. EN https://indomaret.org/en/tool/kalkulator-biaya-transfer | ID https://indomaret.org/tool/kalkulator-biaya-transfer
 - Gold Calculator (Kalkulator Emas): Work out gold value by karat, the buyback spread, profit or loss, and a gold savings target. EN https://indomaret.org/en/tool/kalkulator-emas | ID https://indomaret.org/tool/kalkulator-emas
 - Islamic Inheritance Calculator (Faraid) (Kalkulator Faraid (Waris Islam)): Work out each heir's Islamic inheritance share as a fraction and in rupiah, with the reason. EN https://indomaret.org/en/tool/kalkulator-faraid | ID https://indomaret.org/tool/kalkulator-faraid
 - JHT & JP Calculator (Kalkulator JHT & JP): Project JHT savings and employee/employer contributions, with a separate JP pension formula. EN https://indomaret.org/en/tool/kalkulator-jht | ID https://indomaret.org/tool/kalkulator-jht
@@ -126,6 +133,7 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 - Domain Extractor (Ekstrak Domain dari URL): Extract domains from many URLs at once, without www or duplicates. EN https://indomaret.org/en/tool/domain-extractor | ID https://indomaret.org/tool/domain-extractor
 - Duplicate Lines Remover (Hapus Baris Duplikat): Duplicate Lines Remover with live results while keeping your source text available. EN https://indomaret.org/en/tool/duplicate-lines-remover | ID https://indomaret.org/tool/duplicate-lines-remover
 - Email Extractor (Ekstrak Email): Email Extractor with live results while keeping your source text available. EN https://indomaret.org/en/tool/email-extractor | ID https://indomaret.org/tool/email-extractor
+- Indonesian Phone Number Formatter (Format Nomor HP (08 ke 62)): Clean a list of Indonesian numbers: 08 becomes 628 or +62, spaces and dashes go, duplicates drop. EN https://indomaret.org/en/tool/format-nomor-hp | ID https://indomaret.org/tool/format-nomor-hp
 - Glitch Text Generator (Generator Teks Glitch): Glitch Text Generator with live results while keeping your source text available. EN https://indomaret.org/en/tool/glitch-text-generator | ID https://indomaret.org/tool/glitch-text-generator
 - HTML Tags Stripper (Hapus Tag HTML): HTML Tags Stripper with live results while keeping your source text available. EN https://indomaret.org/en/tool/html-tags-stripper | ID https://indomaret.org/tool/html-tags-stripper
 - Line Break Remover (Hapus Baris Baru): Line Break Remover with live results while keeping your source text available. EN https://indomaret.org/en/tool/line-break-remover | ID https://indomaret.org/tool/line-break-remover
@@ -162,6 +170,7 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 - Flow Rate Converter (Konversi Debit Air): Convert water flow units (L/s, L/min, m³/h, GPM) and work out how long a tank takes to fill. EN https://indomaret.org/en/tool/flow-rate-converter | ID https://indomaret.org/tool/flow-rate-converter
 - Force Converter (Konversi Gaya): Convert newtons, kN, kgf, tonne-force, lbf and dynes with standard factors. EN https://indomaret.org/en/tool/force-converter | ID https://indomaret.org/tool/force-converter
 - Fuel Efficiency Converter (Konversi Konsumsi BBM): Convert km/L, L/100 km and mpg, then estimate trip fuel and cost. EN https://indomaret.org/en/tool/fuel-efficiency-converter | ID https://indomaret.org/tool/fuel-efficiency-converter
+- Merge Excel & CSV (Gabung Excel & CSV): Combine Excel and CSV files into one: columns matched, duplicates removed, phone numbers cleaned. EN https://indomaret.org/en/tool/gabung-excel | ID https://indomaret.org/tool/gabung-excel
 - HEX to RGB (HEX ke RGB): Type a HEX code like #2454DB and instantly get RGB, HSL, CMYK and its contrast ratio. EN https://indomaret.org/en/tool/hex-to-rgb | ID https://indomaret.org/tool/hex-to-rgb
 - Length Converter (Konversi Panjang): Convert metric, imperial and astronomical lengths with instant unit comparisons. EN https://indomaret.org/en/tool/length-converter | ID https://indomaret.org/tool/length-converter
 - Lumen, Lux & Candela Converter (Konversi Lumen, Lux & Candela): Convert lux ↔ foot-candles, calculate lumens ↔ lux for an area and lumens ↔ candela for a beam angle. EN https://indomaret.org/en/tool/light-converter | ID https://indomaret.org/tool/light-converter
@@ -228,6 +237,7 @@ Free tools, no sign-up. Browser tools run on the user's device; files are not up
 - Quoted-Printable Decoder (Decode Quoted-Printable): Read quoted-printable email text using UTF-8 or Windows-1252 to match the source charset. EN https://indomaret.org/en/tool/quoted-printable-decode | ID https://indomaret.org/tool/quoted-printable-decode
 - Quoted-Printable Encoder (Encode Quoted-Printable): Encode UTF-8 text for MIME email bodies with lines wrapped to at most 76 characters. EN https://indomaret.org/en/tool/quoted-printable-encode | ID https://indomaret.org/tool/quoted-printable-encode
 - Regex Tester (Tes Regex): Test JavaScript regex with live match highlights, capture groups, and replacement previews. EN https://indomaret.org/en/tool/regex-tester | ID https://indomaret.org/tool/regex-tester
+- Repo to Text (AI Prompt) (Repo ke Teks (Prompt AI)): Join a code folder into one text for an AI prompt, without node_modules, .git or secret files. EN https://indomaret.org/en/tool/repo-to-text | ID https://indomaret.org/tool/repo-to-text
 - ROT13 Decoder (ROT13 Decoder): Restore ROT13 text to its original message while preserving letter case. EN https://indomaret.org/en/tool/rot13-decoder | ID https://indomaret.org/tool/rot13-decoder
 - ROT13 Encoder (ROT13 Encoder): Rotate A–Z by 13 positions while preserving numbers, punctuation, and emoji. EN https://indomaret.org/en/tool/rot13-encoder | ID https://indomaret.org/tool/rot13-encoder
 - SQL Beautifier (Rapikan SQL): Beautify SQL online free for MySQL, PostgreSQL, SQLite and SQL Server. EN https://indomaret.org/en/tool/sql-beautifier | ID https://indomaret.org/tool/sql-beautifier
