@@ -1,7 +1,7 @@
 {
     "name": "indomaret-tools",
-    "description": "Free website, domain and network checks (DNS, WHOIS, SSL, HTTP headers, redirects, SEO meta, Open Graph, MX/SPF/DMARC, IP) plus a map of 314 free browser tools from Indomaret.org.",
-    "version": "1.2.1",
+    "description": "Free website, domain and network checks (DNS, WHOIS, SSL, HTTP headers, redirects, SEO meta, Open Graph, MX/SPF/DMARC, IP) plus a map of 322 free browser tools from Indomaret.org.",
+    "version": "1.2.2",
     "author": {
         "name": "Indomaret.org",
         "url": "https://indomaret.org"
